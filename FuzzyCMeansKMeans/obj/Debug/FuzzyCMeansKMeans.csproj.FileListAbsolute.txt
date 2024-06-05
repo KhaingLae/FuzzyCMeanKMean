@@ -1,0 +1,22 @@
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\ResolveAssemblyReference.cache
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.AboutBox.resources
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.AppMain.resources
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.Properties.Resources.resources
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.csproj.GenerateResource.Cache
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.UpdateDataset.resources
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\bin\Debug\Dentition.mdb
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\bin\Debug\FuzzyCMeansKMeans.exe.config
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\bin\Debug\FuzzyCMeansKMeans.exe
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\bin\Debug\FuzzyCMeansKMeans.pdb
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.exe
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.pdb
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.MethodsComparison.resources
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.KmeansClustering.resources
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.CMeansClustering.resources
+D:\CurrentProjects\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.ViewMammalImage.resources
+G:\FuzzyCMeansKMeans\FuzzyCMeansKMeans\bin\Debug\FuzzyCMeansKMeans.exe.config
+G:\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.exe
+G:\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.pdb
+C:\Users\AMT\Desktop\FuzzyClustering\To Run\FuzzyCMeansKMeans\FuzzyCMeansKMeans\bin\Debug\FuzzyCMeansKMeans.exe.config
+C:\Users\AMT\Desktop\FuzzyClustering\To Run\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.exe
+C:\Users\AMT\Desktop\FuzzyClustering\To Run\FuzzyCMeansKMeans\FuzzyCMeansKMeans\obj\Debug\FuzzyCMeansKMeans.pdb
